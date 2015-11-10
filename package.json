@@ -1,0 +1,25 @@
+{
+  "name": "gulp-purge-sourcemaps",
+  "version": "1.0.0",
+  "description": "Cleans up after gulp-sourcemaps have done a sourcemaps.write() allowing you to combine streams that generate both dev assets with sourcemaps and minified production assets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stipsan/gulp-purge-sourcemaps.git"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "Stian Didriksen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stipsan/gulp-purge-sourcemaps/issues"
+  },
+  "homepage": "https://github.com/stipsan/gulp-purge-sourcemaps#readme",
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
+}
