@@ -1,6 +1,9 @@
 # [gulp](http://gulpjs.com)-purge-sourcemaps
 > Cleans up after gulp-sourcemaps have done a sourcemaps.write() allowing you to combine streams that generate both dev assets with sourcemaps and minified production assets.
 
+[![NPM](https://nodei.co/npm/gulp-purge-sourcemaps.png?downloads=true)](https://www.npmjs.com/package/gulp-purge-sourcemaps)
+[![NPM](https://nodei.co/npm-dl/gulp-purge-sourcemaps.png?months=3&height=2)](https://nodei.co/npm/gulp-purge-sourcemaps/)
+
 ## Install
 
 ```
