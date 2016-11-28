@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/stipsan/gulp-purge-sourcemaps#readme",
   "dependencies": {
-    "through2": "^2.0.0"
+    "through2": "^2.0.3"
   }
 }
