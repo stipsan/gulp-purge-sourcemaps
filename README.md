@@ -1,4 +1,6 @@
 # [gulp](http://gulpjs.com)-purge-sourcemaps
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/stipsan/gulp-purge-sourcemaps.svg)](https://greenkeeper.io/)
 > Cleans up after gulp-sourcemaps have done a sourcemaps.write() allowing you to combine streams that generate both dev assets with sourcemaps and minified production assets.
 
 [![NPM](https://nodei.co/npm/gulp-purge-sourcemaps.png?downloads=true)](https://www.npmjs.com/package/gulp-purge-sourcemaps)
